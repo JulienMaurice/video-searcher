@@ -1,6 +1,10 @@
 # Example
 
+<<<<<<< HEAD
 ![](gifExample.gif)
+=======
+[![chrome-capture87e3763ff8e3caf2.gif](https://s9.gifyu.com/images/chrome-capture87e3763ff8e3caf2.gif)](https://gifyu.com/image/Jnor)
+>>>>>>> 095606ea00c6fdb8843a753c3fcdd60862014976
 
 # Getting Started with Create React App
 
